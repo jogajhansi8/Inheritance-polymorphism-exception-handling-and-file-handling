@@ -1,0 +1,14 @@
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\filehandling\save_and_close_file\bin\Debug\net10.0\save_and_close_file.exe
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\filehandling\save_and_close_file\bin\Debug\net10.0\save_and_close_file.deps.json
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\filehandling\save_and_close_file\bin\Debug\net10.0\save_and_close_file.runtimeconfig.json
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\filehandling\save_and_close_file\bin\Debug\net10.0\save_and_close_file.dll
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\filehandling\save_and_close_file\bin\Debug\net10.0\save_and_close_file.pdb
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\filehandling\save_and_close_file\obj\Debug\net10.0\save_and_close_file.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\filehandling\save_and_close_file\obj\Debug\net10.0\save_and_close_file.AssemblyInfoInputs.cache
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\filehandling\save_and_close_file\obj\Debug\net10.0\save_and_close_file.AssemblyInfo.cs
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\filehandling\save_and_close_file\obj\Debug\net10.0\save_and_close_file.csproj.CoreCompileInputs.cache
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\filehandling\save_and_close_file\obj\Debug\net10.0\save_and_close_file.dll
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\filehandling\save_and_close_file\obj\Debug\net10.0\refint\save_and_close_file.dll
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\filehandling\save_and_close_file\obj\Debug\net10.0\save_and_close_file.pdb
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\filehandling\save_and_close_file\obj\Debug\net10.0\save_and_close_file.genruntimeconfig.cache
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\filehandling\save_and_close_file\obj\Debug\net10.0\ref\save_and_close_file.dll
