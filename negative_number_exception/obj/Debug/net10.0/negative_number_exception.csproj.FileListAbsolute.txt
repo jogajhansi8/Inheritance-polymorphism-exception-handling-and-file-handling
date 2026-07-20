@@ -1,0 +1,14 @@
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\Exceptions\negative_number_exception\bin\Debug\net10.0\negative_number_exception.exe
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\Exceptions\negative_number_exception\bin\Debug\net10.0\negative_number_exception.deps.json
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\Exceptions\negative_number_exception\bin\Debug\net10.0\negative_number_exception.runtimeconfig.json
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\Exceptions\negative_number_exception\bin\Debug\net10.0\negative_number_exception.dll
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\Exceptions\negative_number_exception\bin\Debug\net10.0\negative_number_exception.pdb
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\Exceptions\negative_number_exception\obj\Debug\net10.0\negative_number_exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\Exceptions\negative_number_exception\obj\Debug\net10.0\negative_number_exception.AssemblyInfoInputs.cache
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\Exceptions\negative_number_exception\obj\Debug\net10.0\negative_number_exception.AssemblyInfo.cs
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\Exceptions\negative_number_exception\obj\Debug\net10.0\negative_number_exception.csproj.CoreCompileInputs.cache
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\Exceptions\negative_number_exception\obj\Debug\net10.0\negative_number_exception.dll
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\Exceptions\negative_number_exception\obj\Debug\net10.0\refint\negative_number_exception.dll
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\Exceptions\negative_number_exception\obj\Debug\net10.0\negative_number_exception.pdb
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\Exceptions\negative_number_exception\obj\Debug\net10.0\negative_number_exception.genruntimeconfig.cache
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\Exceptions\negative_number_exception\obj\Debug\net10.0\ref\negative_number_exception.dll
