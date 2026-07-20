@@ -1,0 +1,14 @@
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\Exceptions\handle\bin\Debug\net10.0\handle.exe
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\Exceptions\handle\bin\Debug\net10.0\handle.deps.json
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\Exceptions\handle\bin\Debug\net10.0\handle.runtimeconfig.json
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\Exceptions\handle\bin\Debug\net10.0\handle.dll
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\Exceptions\handle\bin\Debug\net10.0\handle.pdb
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\Exceptions\handle\obj\Debug\net10.0\handle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\Exceptions\handle\obj\Debug\net10.0\handle.AssemblyInfoInputs.cache
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\Exceptions\handle\obj\Debug\net10.0\handle.AssemblyInfo.cs
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\Exceptions\handle\obj\Debug\net10.0\handle.csproj.CoreCompileInputs.cache
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\Exceptions\handle\obj\Debug\net10.0\handle.dll
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\Exceptions\handle\obj\Debug\net10.0\refint\handle.dll
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\Exceptions\handle\obj\Debug\net10.0\handle.pdb
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\Exceptions\handle\obj\Debug\net10.0\handle.genruntimeconfig.cache
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\Exceptions\handle\obj\Debug\net10.0\ref\handle.dll

@@ -1,0 +1,14 @@
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\Exceptions\exception_handle_in_person_class\bin\Debug\net10.0\exception_handle_in_person_class.exe
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\Exceptions\exception_handle_in_person_class\bin\Debug\net10.0\exception_handle_in_person_class.deps.json
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\Exceptions\exception_handle_in_person_class\bin\Debug\net10.0\exception_handle_in_person_class.runtimeconfig.json
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\Exceptions\exception_handle_in_person_class\bin\Debug\net10.0\exception_handle_in_person_class.dll
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\Exceptions\exception_handle_in_person_class\bin\Debug\net10.0\exception_handle_in_person_class.pdb
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\Exceptions\exception_handle_in_person_class\obj\Debug\net10.0\exception_handle_in_person_class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\Exceptions\exception_handle_in_person_class\obj\Debug\net10.0\exception_handle_in_person_class.AssemblyInfoInputs.cache
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\Exceptions\exception_handle_in_person_class\obj\Debug\net10.0\exception_handle_in_person_class.AssemblyInfo.cs
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\Exceptions\exception_handle_in_person_class\obj\Debug\net10.0\exception_handle_in_person_class.csproj.CoreCompileInputs.cache
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\Exceptions\exception_handle_in_person_class\obj\Debug\net10.0\exception_handle_in_person_class.dll
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\Exceptions\exception_handle_in_person_class\obj\Debug\net10.0\refint\exception_handle_in_person_class.dll
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\Exceptions\exception_handle_in_person_class\obj\Debug\net10.0\exception_handle_in_person_class.pdb
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\Exceptions\exception_handle_in_person_class\obj\Debug\net10.0\exception_handle_in_person_class.genruntimeconfig.cache
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\Exceptions\exception_handle_in_person_class\obj\Debug\net10.0\ref\exception_handle_in_person_class.dll
