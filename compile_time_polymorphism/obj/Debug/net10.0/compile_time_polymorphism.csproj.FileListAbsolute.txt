@@ -1,0 +1,14 @@
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\polymorphism\compile_time_polymorphism\bin\Debug\net10.0\compile_time_polymorphism.exe
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\polymorphism\compile_time_polymorphism\bin\Debug\net10.0\compile_time_polymorphism.deps.json
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\polymorphism\compile_time_polymorphism\bin\Debug\net10.0\compile_time_polymorphism.runtimeconfig.json
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\polymorphism\compile_time_polymorphism\bin\Debug\net10.0\compile_time_polymorphism.dll
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\polymorphism\compile_time_polymorphism\bin\Debug\net10.0\compile_time_polymorphism.pdb
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\polymorphism\compile_time_polymorphism\obj\Debug\net10.0\compile_time_polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\polymorphism\compile_time_polymorphism\obj\Debug\net10.0\compile_time_polymorphism.AssemblyInfoInputs.cache
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\polymorphism\compile_time_polymorphism\obj\Debug\net10.0\compile_time_polymorphism.AssemblyInfo.cs
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\polymorphism\compile_time_polymorphism\obj\Debug\net10.0\compile_time_polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\polymorphism\compile_time_polymorphism\obj\Debug\net10.0\compile_time_polymorphism.dll
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\polymorphism\compile_time_polymorphism\obj\Debug\net10.0\refint\compile_time_polymorphism.dll
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\polymorphism\compile_time_polymorphism\obj\Debug\net10.0\compile_time_polymorphism.pdb
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\polymorphism\compile_time_polymorphism\obj\Debug\net10.0\compile_time_polymorphism.genruntimeconfig.cache
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\polymorphism\compile_time_polymorphism\obj\Debug\net10.0\ref\compile_time_polymorphism.dll
