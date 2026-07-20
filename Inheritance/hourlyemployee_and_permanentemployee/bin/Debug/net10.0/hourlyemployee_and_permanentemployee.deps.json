@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "hourlyemployee_and_permanentemployee/1.0.0": {
+        "runtime": {
+          "hourlyemployee_and_permanentemployee.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hourlyemployee_and_permanentemployee/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

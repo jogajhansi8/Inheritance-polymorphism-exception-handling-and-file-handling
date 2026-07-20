@@ -1,0 +1,14 @@
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\Inheritance\inheritance\bin\Debug\net10.0\inheritance.exe
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\Inheritance\inheritance\bin\Debug\net10.0\inheritance.deps.json
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\Inheritance\inheritance\bin\Debug\net10.0\inheritance.runtimeconfig.json
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\Inheritance\inheritance\bin\Debug\net10.0\inheritance.dll
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\Inheritance\inheritance\bin\Debug\net10.0\inheritance.pdb
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\Inheritance\inheritance\obj\Debug\net10.0\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\Inheritance\inheritance\obj\Debug\net10.0\inheritance.AssemblyInfoInputs.cache
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\Inheritance\inheritance\obj\Debug\net10.0\inheritance.AssemblyInfo.cs
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\Inheritance\inheritance\obj\Debug\net10.0\inheritance.csproj.CoreCompileInputs.cache
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\Inheritance\inheritance\obj\Debug\net10.0\inheritance.dll
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\Inheritance\inheritance\obj\Debug\net10.0\refint\inheritance.dll
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\Inheritance\inheritance\obj\Debug\net10.0\inheritance.pdb
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\Inheritance\inheritance\obj\Debug\net10.0\inheritance.genruntimeconfig.cache
+C:\Users\jogaj\OneDrive\Desktop\Inheritance,polymorphism,exception handling and file handling\Inheritance\inheritance\obj\Debug\net10.0\ref\inheritance.dll
